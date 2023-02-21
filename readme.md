@@ -1,1 +1,2 @@
-Datenprojekt von Paul Hendrik van Norden
+This repository contains the project "Datenanalyse" from Paul Hendrik van Norden (MN: 418627) for the lecture 
+"Principles and Applications of Probability Theory" at the University of Kaiserslautern-Landau (RPTU).
